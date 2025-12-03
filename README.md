@@ -3,6 +3,8 @@
 A curated collection of powerful and modular **Gemini Agents**, designed for development, automation, SEO, analysis, content creation, and multi-domain workflows.
 Inspired by the philosophy behind *[TRAE Agents](https://github.com/HighMark-31/TRAE-Agents)*, this collection offers ready-to-use Gemini Agents accessible with a single click.
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.Gemini-Agents)
+
 ---
 
 ## 🚀 **Agents List**
