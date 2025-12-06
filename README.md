@@ -39,33 +39,31 @@ Generates marketing strategies, funnels, landing pages, ads, messaging, and audi
 
 ---
 
-## 👀 Coming soon 👀
-
-### **6. GEM-Deploy**
+### **6. [GEM-Deploy](https://gemini.google.com/gem/1qAD6kTxcdcZkTd2RmCti0TyjnOrxjWfv?usp=sharing)**
 
 Helps deploy apps on VPS, Docker, Vercel, Netlify, Cloudflare, and more. Builds configs, pipelines, and server setups.
 
 ---
 
-### **7. GEM-Write**
+### **7. [GEM-Write](https://gemini.google.com/gem/1BRnYHuNSGgikl9ZqlDhCfusoU1ygw_ZN?usp=sharing)**
 
 Creates high-quality content: articles, emails, descriptions, documentation, reviews, titles, and more.
 
 ---
 
-### **8. GEM-Support**
+### **8. [GEM-Support](https://gemini.google.com/gem/1Ct6tflvMwgj-G2Q_47DdmpSACjDu3x4g?usp=sharing)**
 
 Handles technical support, ticket replies, bug reporting, troubleshooting, and customer communication.
 
 ---
 
-### **9. GEM-Data**
+### **9. [GEM-Data](https://gemini.google.com/gem/1ZTANExv41F6ilJfpH4xHirVN8sX0P-hu?usp=sharing)**
 
 Processes datasets, generates analytics, transforms CSV/JSON, and creates insights and structured summaries.
 
 ---
 
-### **10. GEM-Tasker**
+### **10. [GEM-Tasker](https://gemini.google.com/gem/1rrsVZlxLWlX9uAizkpaehAVIFGicHMnJ?usp=sharing)**
 
 Creates workflows, automations, task systems, checklists, and assists in planning and executing structured tasks.
 
